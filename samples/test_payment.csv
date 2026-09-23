@@ -1,0 +1,2 @@
+payment_id,customer_id,invoice_number,amount
+PAY-TEST-1,HARBOR,INV-999,600.00

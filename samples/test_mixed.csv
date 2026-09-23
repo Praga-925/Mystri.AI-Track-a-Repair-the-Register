@@ -1,0 +1,5 @@
+customer_id,invoice_number,amount,due_date
+HARBOR,INV-MIX-1,100.00,2026-10-01
+HARBOR,INV-MIX-2,BAD,2026-10-02
+MAPLE,INV-MIX-3,200.00,2026-10-03
+

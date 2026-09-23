@@ -1,0 +1,2 @@
+customer_id,invoice_number,amount,due_date
+HARBOR,INV-IDEMPOTENCY,200.00,2026-10-01

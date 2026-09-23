@@ -1,0 +1,2 @@
+payment_id,customer_id,invoice_number,amount
+PAY-TEST-VALID,MAPLE,INV-201,600.00
